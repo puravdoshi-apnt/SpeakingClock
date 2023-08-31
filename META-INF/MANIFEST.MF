@@ -5,4 +5,4 @@ Bundle-SymbolicName: Speaking_Clock
 Bundle-Version: 1.0.0.qualifier
 Bundle-RequiredExecutionEnvironment: JavaSE-17
 Automatic-Module-Name: Speaking.Clock
-Export-Package: com.example.demo
+Export-Package: com.wowcher.test

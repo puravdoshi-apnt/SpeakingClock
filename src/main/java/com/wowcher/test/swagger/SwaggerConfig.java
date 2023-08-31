@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.wowcher.test.swagger;
 
 
 import org.springframework.context.annotation.Bean;

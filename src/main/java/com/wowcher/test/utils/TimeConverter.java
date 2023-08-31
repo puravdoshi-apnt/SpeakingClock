@@ -1,9 +1,9 @@
-package com.example.demo;
+package com.wowcher.test.utils;
 
 
 public class TimeConverter {
 	
-		 public static String convertTimeToWords(String time) {
+	public static String convertTimeToWords(String time) {
 			    String[] parts = time.split(":");
 			    int hours = Integer.parseInt(parts[0]);
 			    int minutes = Integer.parseInt(parts[1]);

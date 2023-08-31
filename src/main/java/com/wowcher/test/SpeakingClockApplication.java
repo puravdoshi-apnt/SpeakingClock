@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.wowcher.test;
 
 
 import org.springframework.boot.SpringApplication;
